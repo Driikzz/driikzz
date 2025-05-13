@@ -1,16 +1,64 @@
-## Hi there 👋
+# <div align="center">👨‍💻 Rémi | @Driikzz</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3F96F7&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+Full+Stack;Sp%C3%A9cialis%C3%A9+Web+%26+Mobile;React+%7C+React+Native+%7C+TypeScript)](https://github.com/Driikzz)
+
+</div>
+
+## 🚀 Stack Technique
+
+<div align="center">
+  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Driikzz&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Driikzz&layout=compact&theme=tokyonight)](https://github.com/Driikzz)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Driikzz&theme=tokyonight)
+
+</div>
+
+## 🎯 Projets en cours
+
+- 🌐 Développement d'applications web modernes avec React et TypeScript
+- 📱 Création d'applications mobiles cross-platform avec React Native
+- 🔧 Amélioration continue de mes compétences en développement
+
+## 📫 Me contacter
+
+<div align="center">
+  
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Driikzz)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visiteurs](https://profile-counter.glitch.me/Driikzz/count.svg)
+
+</div>
 
 <!--
-**Driikzz/driikzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ASCII Art généré pour un effet visuel cool
 -->
+```
+    ____                _ 
+   |  _ \ ___ _ __ ___ (_)
+   | |_) / _ \ '_ ` _ \| |
+   |  _ <  __/ | | | | | |
+   |_| \_\___|_| |_| |_|_|
+                          
+``` 
