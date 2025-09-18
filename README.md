@@ -36,7 +36,6 @@
 
 <div align="center">
   
-![Visiteurs](https://profile-counter.glitch.me/Driikzz/count.svg)
 
 </div>
 
