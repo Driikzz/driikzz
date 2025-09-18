@@ -17,17 +17,6 @@
 
 </div>
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Driikzz&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Driikzz&layout=compact&theme=tokyonight)](https://github.com/Driikzz)
-
-
-</div>
-
 ## 🎯 Projets en cours
 
 - 🌐 Développement d'applications web modernes avec React et TypeScript
